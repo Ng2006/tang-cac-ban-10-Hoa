@@ -1,19 +1,17 @@
 const CONFIG = {
     introTitle: 'Thảo dzân à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao mày cứ đi nhầm đường
-    Lạc vào tim Tuấn Anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu Tuấn Anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introDesc: `Thiệt ra tao ko muốn nhắc đâu, nhưng mà ... 😔 khi nào mày trả tao 10 tỷ đây. 
+                 Mày nợ tao 4 năm rồi`,
+    btnIntro: 'tao định ko trả',
+    title: 'Phải chăng em đã định bùm ngay từ cái lúc mượn tiền 🙂',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy số tiền ấy ',
+    btnYes: 'Em sẽ trả , nếu ko em sẽ đi tu ',
+    btnNo: 'Không, Anh trai à, Có chết em cũng không trả',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại mượn tiền Anh',
+    btnReply: 'Gửi cho anh ',
+    reply: 'Bởi vì Anh có bồ cũ xinh quá, em ghen tỵ',
+    mess: 'Anh biết mà 🥰. Lo trả tiền anh đi',
+    messDesc: 'Ngày mai 7h anh qua nhà lấy trước 5 tỷ.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/tofuu206'
+    messLink: 'https://www.facebook.com/profile.php?id=100009528825607'
 }
