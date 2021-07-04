@@ -1,19 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Chào Cậu Cao Đình Song Nguyên',
+    introDesc: `Cậu có biết mình là ai hông
+                Hông biết thì giờ biết`,
+    btnIntro: 'Cậu bấm vào đây đi 😚',
+    title: 'Aaaaa mình biết cậu phái mình mà',
+    desc: 'Mà cậu cho mình mượn 500k nhaaaa😍 ',
+    btnYes: 'Okie luônnnn <33',
+    btnNo: 'Không, Mơ đi :3', 
+    question:'Tại sao bạn lại tốt với mình như vậyyyy',
+    btnReply: 'Gửi cho mình đi <3',
+    reply: 'Bởi vì bạn đẹp trai  <33333333',
+    mess: 'Tao biết mà 🥰.',
+    messDesc: 'Sáng mai 7h tao qua lấy tiền nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100004848375298' 
 }
