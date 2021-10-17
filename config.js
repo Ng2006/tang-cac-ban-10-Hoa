@@ -1,19 +1,24 @@
 const CONFIG = {
-    introTitle: 'Babe à hihi !',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Chào các bạn nữ lớp 10 Hoá và cô Linh💗 !',
+    introDesc: `Thiệt ra hôm nay 
+    Tụi mình làm cái này
+    Để tặng các bạn nữ
+    Nhân ngày 20/10`,
+    btnIntro: 'Các bạn bấm vào đây đi!!Hihii',
+    title: 'Ngày 20/10 chúc một nửa thế giới luôn 
+    Luôn thành công trong cuộc sống, học tập , xinh đẹp 
+    Trong mắt nửa kia nhá 😙',
+    desc: 'Các bạn có củm động với tìnk kảm 
+    tụi mình dành cho mấy bạn ko nào ',
+    btnYes: 'Coá nha, 
+    mãi yêu các bạn nam 10 Hoá <33',
+    btnNo: 'Hông nha, Dở tệ :3',
+    question:'Tại sao các bạn lại thích món quà này 
+    Tụi mình dành tặng các bạn vậy <3',
+    btnReply: 'Gửi cho mình nhé <3',
+    reply: 'Bởi vì các bạn thật tuyệt dời <33333333',
+    mess: 'Mình biết mà 😆. Cảm ơn các bạn nhiều nhiều 😘😘',
+    messDesc: 'Hẹn gặp các bạn vào ngày 25/10 nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/profile.php?id=100009528825607' 
 }
