@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim Anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Yêu thì yêu không yêu thì yêu <33',
-    btnNo: 'Không, Anh anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anhhhhhh<3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Anh tuyệt vời nhất trên đời  <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Sáng mai 7h anh qua đón đi uống coffee house nhé công chúa.',
+    introTitle: 'Chào các bạn nữ lớp 10 Hoá và cô Linh💗!',
+    introDesc: `Thật ra hôm nay
+    Tụi mình làm cái này 
+    Để dành cho mấy bạn
+    Nhân ngày 20/10`,
+    btnIntro: 'bấm vào đây ',
+    title: 'Chúc nửa thế giới kia luôn thành công trong cuộc sống nháa 😙',
+    desc: 'Các bạn có củm động với tình củm tụi mình dành cho mấy bạn hông nèo ',
+    btnYes: 'Coá nhaa, mãi yêu<333',
+    btnNo: 'Hông nha, dở ẹc :3',
+    question:'Tại sao các bạn lại thích món quà này vậy <3',
+    btnReply: 'Gửi cho mình nhé <3',
+    reply: 'Mấy bạn thật tuyệt dòi   <33333333',
+    mess: 'Mình biết mà 😆. Cảm ơn mấy bạn 😘😘',
+    messDesc: 'Hẹn mấy bạn ngày 25/10 nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/'
+    messLink: 'https://www.facebook.com/profile.php?id=100009528825607'
 }
