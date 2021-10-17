@@ -5,7 +5,7 @@ const CONFIG = {
     Tặng cho các bạn nữ nhân ngày 20/10 sắp tới`,
     btnIntro: 'Các bạn bấm vào đây đi!! HiHi🤭',
     title: 'Ngày 20/10 chúc một nửa thế giới luôn thành công trong cuộc sống, 
-            Học tập, duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại nhé.',
+    Học tập, duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại nhé.',
     desc: 'Các bạn có củm động với tình cảm tụi mình dành ko nào =))',
     btnYes: 'Coá nha:)) Mãi yêu các bạn nam lớp 10 Hoá ',
     btnNo: 'Không nha, dở tệ:((',
