@@ -6,7 +6,7 @@ const CONFIG = {
     Nhân ngày 20/10`,
     btnIntro: 'bấm vào đây ',
     title: 'Chúc nửa thế giới kia luôn thành công trong cuộc sống nháa 😙',
-    desc: 'Các bạn có củm động với tình củm tụi mình dành cho mấy bạn hông nèo ',
+    desc: 'Các bạn có củm động hông nèo ',
     btnYes: 'Coá nhaa, mãi yêu<333',
     btnNo: 'Hông nha, dở ẹc :3',
     question:'Tại sao các bạn lại thích món quà này vậy <3',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Mình biết mà 😆. Cảm ơn mấy bạn 😘😘',
     messDesc: 'Hẹn mấy bạn ngày 25/10 nhé.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100009528825607'
+    messLink: 'https://www.facebook.com/profile.php?'
 }
