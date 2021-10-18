@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Chào các bạn nữ lớp 10 Hoá và cô Linh💗!',
+    introTitle: '你好👋 các bạn nữ lớp 10 Hoá và cô Linh💗!',
     introDesc: `Thật ra hôm nay
     Tụi mình làm cái này 
     Để dành cho mấy bạn
@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Tại sao các bạn lại thích món quà này vậy <3',
     btnReply: 'Gửi cho mình nhé <3',
     reply: 'Mấy bạn thật tuyệt dòi   <33333333',
-    mess: 'Mình biết mà 😆. Cảm ơn mấy bạn 😘😘',
-    messDesc: 'Hẹn mấy bạn ngày 25/10 nhé.',
+    mess: 'Mình biết mà 😆. 谢谢 😘😘',
+    messDesc: 'Hẹn mấy bạn ngày 25/10 nhé 再见👋.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?'
 }
