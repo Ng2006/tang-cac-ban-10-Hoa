@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Chào các bạn nữ lớp 10 Hoá và cô Linh💗',
-    introDesc: `Thiệt ra hôm nay tụi mình 
-    làm cái này để dành 
-    Tặng cho các bạn nữ nhân ngày 20/10 sắp tới`,
-    btnIntro: 'Các bạn bấm vào đây đi!! HiHi🤭',
-    title: 'Ngày 20/10 chúc một nửa thế giới luôn thành công trong cuộc sống, 
-    Học tập, duyên dáng và xinh đẹp trong mắt một nửa thế giới còn lại nhé.',
-    desc: 'Các bạn có củm động với tình cảm tụi mình dành ko nào =))',
-    btnYes: 'Coá nha:)) Mãi yêu các bạn nam lớp 10 Hoá ',
-    btnNo: 'Không nha, dở tệ:((',
-    question:'Tại sao các bạn lại thích món quà này tụi mình dành tặng cho các bạn',
-    btnReply: 'Gửi cho tụi mình nhéee ',
+    introTitle: 'Babe à 💗',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương `,
+    btnIntro: 'HiHi🤭',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên😚.',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy',
+    btnYes: 'Yêu thì yêu không yêu thì yêu<33 ',
+    btnNo: 'Không nha anh trai',
+    question:'Trên thế giới có 7 tỉ người mà sao em lại têu anh',
+    btnReply: 'Gửi cho anh nhéee ',
     reply: 'Bởi vì Các bạn thật tuyệt dời ',
     mess: 'Tụi mình biết mà 🥰 , cảm ơn các bạn 😆.',
     messDesc: 'Hẹn gặp các bạn vào ngày 25/10 này nhé🤪.',
